@@ -1,0 +1,26 @@
+"i-04a154bf5d5633e36"
+"i-01e34912584eecc6d"
+"i-08729564fd439425b"
+"i-0a51fbfb062ca34a7"
+"i-03ce191e5ee7e60ac"
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "Dev-Tanmoy",
+            "UserId": "AIDAZFAVLE6RKXRJWDAZE",
+            "Arn": "arn:aws:iam::629257480098:user/Dev-Tanmoy",
+            "CreateDate": "2022-12-13T16:16:59Z"
+        },
+        {
+            "Path": "/",
+            "UserName": "Kub-Tanmoy",
+            "UserId": "AIDAZFAVLE6RDS4DPFAVX",
+            "Arn": "arn:aws:iam::629257480098:user/Kub-Tanmoy",
+            "CreateDate": "2022-12-28T13:40:34Z"
+        }
+    ]
+}
